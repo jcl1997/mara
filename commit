@@ -1,0 +1,8 @@
+1° Descrição da tarefa
+2° Máximo 50 caracteres
+3° Tipos de commit
+    atualização - feat(frontend/backend): "sempre começa com um palavra no imperativo claro e objetivo"
+    alteração - refactor(frontend/backend): "sempre começa com um palavra no imperativo claro e objetivo"
+    correção - fix(frontend/backend): "sempre começa com um palavra no imperativo claro e objetivo"
+    atualização na estrutura da aplicação  - infra(chore): "sempre começa com um palavra no imperativo claro e objetivo"
+referencia "https://github.com/BeeTech-global/bee-stylish/tree/master/commits"
