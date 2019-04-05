@@ -1,0 +1,54 @@
+desfazer todas as edições
+git checkout .
+
+desfazer alterações em um arquivo
+git checkout "caminho do arquivo"
+
+criar novo branch e muda para ele
+git checkout -b "new branch"
+
+muda para o branch
+git checkout "branch"
+
+commit
+===
+
+todos os arquivos modificados
+git commit -a
+
+editar ultimo commit
+git commit --amend
+
+subir commits
+git push origin "branch"
+
+atualizar projeto
+git fetch
+
+atualizar arvore de branch
+git fetch --prune
+
+atualizar branch local
+git checkout "branch"
+git rebase origin "branch"
+
+ver alterações do projeto
+git status
+
+adiciona arquivo para commit
+git add "arquivos"
+
+adiciona todos os arquivos para commit
+git add .
+
+ver todas as modificações
+git diff
+
+ver modificados de um arquivo
+git diff "arquivos"
+
+ver documentação do projeto e controle de versão
+gitk --all &
+
+muda de pasta
+cd caminho
